@@ -1,4 +1,4 @@
-# ACF-gallery-bootstap-slider
+# ACF-gallery-bootstrap-slider
 Example of ACF gallery with bootstrap carusel modal
 
 This example is for ACF gallery field, it can be used also with Repeater field.
